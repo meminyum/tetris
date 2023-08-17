@@ -1,1 +1,1 @@
-# tetris game written with python using pygame
+# tetris game written in python using pygame
